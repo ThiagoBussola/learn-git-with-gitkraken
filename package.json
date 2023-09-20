@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "In this workshop, participants learn how to use GitKraken's Git GUI and GitKraken Boards to collaborate on a project. This is the source code for that project!",
   "main": "index.js",
-  "type":  "module",
+  "type": "module",
   "scripts": {
     "test": "node soma.test.js"
   },
